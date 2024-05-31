@@ -28,8 +28,4 @@ I'm a full stack Android and web developer with a passion for creating innovativ
 ## 🌟 Fun Fact
 I love solving geometry problems, particularly those involving triangles!
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Abi27052000&show_icons=true&theme=radical)
 
-## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abi27052000&layout=compact&theme=radical)
