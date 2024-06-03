@@ -38,6 +38,7 @@ I'm a full stack Android and web developer with a passion for creating innovativ
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Dhiwise-4A90E2?style=for-the-badge&logo=dhiwise&logoColor=white" alt="Dhiwise" />
 </p>
 
 ## 📫 How to reach me
