@@ -43,8 +43,8 @@ I'm a full stack Android and web developer with a passion for creating innovativ
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abi27052000&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abi27052000&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abi27052000&show_icons=true&theme=radical&card_width=450" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abi27052000&layout=compact&theme=radical&card_width=450" alt="Top Languages" />
 </p>
 
 ## 📫 How to reach me
