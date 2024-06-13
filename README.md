@@ -41,6 +41,12 @@ I'm a full stack Android and web developer with a passion for creating innovativ
   
 </p>
 
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abi27052000&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abi27052000&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 ## 📫 How to reach me
 
 - [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allesabinash1@gmail.com)
