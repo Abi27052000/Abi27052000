@@ -79,7 +79,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abi27052000&show_icons=true&hide_border=true&theme=radical" width="49%">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=Abi27052000&show_icons=true&hide_border=true&theme=radical" width="49%"> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abi27052000&theme=radical&hide_border=true" width="49%">
 </div>
 
