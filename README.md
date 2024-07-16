@@ -60,8 +60,9 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abi27052000&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abi27052000&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies">
 </p>
+
 
 <h2 align="center">⭐ GitHub Stars</h2>
 
