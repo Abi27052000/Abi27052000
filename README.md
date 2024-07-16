@@ -57,6 +57,19 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abi27052000&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abi27052000&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
+</p>
+
+<h2 align="center">⭐ GitHub Stars</h2>
+
+<p align="center">
+  <a href="https://stars.github.com/profiles/Abi27052000/">
+    <img src="https://img.shields.io/github/stars/Abi27052000?style=for-the-badge&logo=github&color=yellow" alt="GitHub Stars">
+  </a>
+</p>
 <h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
