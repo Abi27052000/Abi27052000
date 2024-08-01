@@ -13,7 +13,6 @@
 <td width="70%">
 
 - 🚀 Full Stack Developer passionate about web and mobile development
-- 🌱 Currently learning Artificial Intelligence (AI) and Cloud Computing
 - 🎓 Studying at University of Sri Jayewardenepura
 - 💼 Open to exciting job opportunities and collaborations
 - 📚 Lifelong learner, always exploring new technologies
