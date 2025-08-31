@@ -1,7 +1,7 @@
 <table align="center" width="100%">
 <tr>
 <td align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=1000&color=2ED573&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;I'm+Alles+Abinash+-+Full+Stack+Developer;Passionate+about+Web+and+Mobile+Development;Always+learning+and+exploring+new+technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=1000&color=2ED573&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;I'm+Alles+Abinash+-+Full+Stack+AI Engineer;Passionate+about+Web+and+Mobile+Development;Always+learning+and+exploring+new+technologies" alt="Typing SVG" />
 </td>
 </tr>
 </table>
@@ -12,7 +12,7 @@
 <tr>
 <td width="70%">
 
-- 🚀 Full Stack Developer passionate about web and mobile development
+- 🚀 Full Stack AI Engineer 
 - 🎓 Studying at University of Sri Jayewardenepura
 - 💼 Open to exciting job opportunities and collaborations
 - 📚 Lifelong learner, always exploring new technologies
@@ -56,13 +56,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
 
-
-
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abi27052000&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</div>
 
 
 
