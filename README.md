@@ -1,10 +1,4 @@
-<table align="center" width="100%">
-<tr>
-<td align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=1000&color=2ED573&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;I'm+Alles+Abinash+-+Full+Stack+AI Engineer;Passionate+about+Web+and+Mobile+Development;Always+learning+and+exploring+new+technologies" alt="Typing SVG" />
-</td>
-</tr>
-</table>
+
 
 <h2 align="center">👨‍💻 About Me</h2>
 
